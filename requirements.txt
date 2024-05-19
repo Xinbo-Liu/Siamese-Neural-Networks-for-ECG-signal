@@ -1,0 +1,9 @@
+tensorflow-gpu==2.10.0
+keras==2.10.0
+numpy==1.24.3
+scipy==1.13.0
+pandas==2.1.0
+matplotlib==3.5.3
+seaborn==0.11.2
+scikit-learn==1.4.2
+tensorBoard==2.10.1
