@@ -1,0 +1,27 @@
+﻿DX,Description,Chinese_Name
+164867002,OldMI (old myocardial infarction),旧性心肌梗死
+10370003,PR (pacing rhythm) ,起搏心律
+426177001,SB (sinus bradycardia) ,窦性心动过缓
+111975006,LQT (prolonged qt interval) ,QT间期延长
+713426002,IRBBB (incomplete right bundle branch block),不完全性右束支传导阻滞
+164861001,Mis (myocardial ischemia),心肌缺血
+426783006,NSR (sinus rhythm),窦性心律
+55930002,STC (s t changes),ST段改变
+17338001,VPB (ventricular premature beats),室性早搏
+284470004,PAC (premature atrial contraction),房性早搏
+164865005,MI (myocardial infarction),心肌梗死
+425623009,Lis (lateral ischaemia),侧壁缺血
+164873001,LVH (left ventricular hypertrophy),左心室肥大
+67741000119109,LAE (left atrial enlargement),左房增大
+164889003,AF (atrial fibrillation),房颤
+164909002,LBBB (left bundle branch block),左束支传导阻滞
+428750005,NSSTTA (nonspecific st t abnormality),非特异性ST T改变
+427393009,SA (sinus arrhythmia),窦性心律不齐
+164951009,abQRS (abnormal QRS),QRS波异常
+39732003,LAD (left axis deviation),左轴偏移
+59118001,RBBB (right bundle branch block),右束支传导阻滞
+164884008,VEB (ventricular ectopics),室性异位心律
+164934002,TAb (t wave abnormal),T波异常
+270492004,IAVB (1st degree AV block),一度房室传导阻滞
+427084000,STach (sinus tachycardia),窦性心动过速
+427172004,PVC (premature ventricular contractions),室性早搏
