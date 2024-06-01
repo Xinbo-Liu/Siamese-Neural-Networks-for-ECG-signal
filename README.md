@@ -10,6 +10,9 @@
 
 ## 依赖项
 
+### Python 版本
+python-3.9.6-amd64
+
 ### Python 包
 所有必需的 Python 包都列在 `requirements.txt` 文件中。您可以使用以下命令安装它们：
 
